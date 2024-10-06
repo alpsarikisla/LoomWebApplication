@@ -1,0 +1,86 @@
+﻿*,h1,h2,h3,h4,h5,h6{
+    margin:0; padding:0;
+}
+body {
+    font-family:Calibri;
+    background-color: #171A21;
+    background-image:url(../SayfaResimleri/new_login_bg_strong_mask.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-position-y:top;
+}
+.gecici{
+    height:20px;
+    background-color:deeppink;
+}
+.karsilama {
+    width: 670px;
+    margin: 270px auto;
+    color:white;
+}
+.maincerceve {
+    margin-top:30px;
+    padding: 30px;
+    background-color: #181A21;
+    border-radius: 3px;
+}
+.maincerceve .sol{
+    width:360px;
+    float:left;
+   
+}
+.hatakutu{
+    padding:20px;
+    color:white;
+    font-weight:900;
+    text-align:center;
+    background-color:deeppink;
+    border-radius:7px;
+    margin:5px 0px;
+}
+.maincerceve .sag {
+    width: 230px;
+    float: left;
+    padding-left: 20px;
+    text-align: center;
+}
+.satir{
+    margin-bottom:20px;
+}
+.satir label{
+    display:block;
+    font-size:11pt;
+}
+    .satir .metinKutu {
+        margin-top: 10px;
+        padding: 10px;
+        background-color: #393C44;
+        border: none;
+        width: 90%;
+        border-radius: 2px;
+        color: white;
+        font-size: 12pt;
+        border: 1px solid #393C44;
+    }
+        .satir .metinKutu:focus {
+            border: 1px solid #1999ff;
+            outline:none;
+        }
+.check label{
+    display:inline;
+    padding-left:8px;
+}
+.girisButon {
+   /* border: 1px solid #1999ff;*/
+    color: white;
+    text-decoration: none;
+    padding: 15px 100px;
+    border-radius: 3px;
+    background: rgb(6,191,255);
+    background: linear-gradient(90deg, rgba(6,191,255,1) 0%, rgba(44,116,255,1) 100%);
+}
+    .girisButon:hover {
+        background: rgb(94,214,255);
+        background: linear-gradient(90deg, rgba(94,214,255,1) 0%, rgba(35,164,255,1) 56%, rgba(44,116,255,1) 100%);
+    }
+
