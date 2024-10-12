@@ -20,7 +20,7 @@
                     </asp:Panel>
                     <div class="satir">
                         <label style="color:#1999ff;font-weight:900">MAİL İLE GİRİŞ YAPIN</label>
-                        <asp:TextBox ID="tb_mail" runat="server" CssClass="metinKutu" placeholder="mail@mail.com"></asp:TextBox>
+                        <asp:TextBox ID="tb_mail" runat="server" CssClass="metinKutu" placeholder="mail@mail.com" Text="dev@dev.com"></asp:TextBox>
                     </div>
                     <div class="satir">
                         <label style="color:#afafaf">PAROLA</label>

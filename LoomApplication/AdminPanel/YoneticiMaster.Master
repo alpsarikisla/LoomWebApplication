@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="YoneticiMaster.master.cs" Inherits="LoomApplication.AdminPanel.YoneticiMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Loom Yönetici Paneli</title>
+    <link href="css/YoneticiMasterStyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="ustMenu">
+            <div class="logoAlani">
+                <h2>Loom Yönetici Paneli</h2>
+            </div>
+            <div class="kullaniciAlani">
+                <asp:LinkButton ID="lbtn_cikis" runat="server" OnClick="lbtn_cikis_Click" Text="Güvenli Çıkış" CssClass="link"></asp:LinkButton>
+                <asp:Label ID="lbl_kullanici" runat="server" Text="kullanıcı"></asp:Label>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+        <div class="solMenu">
+            <a href="Default.aspx">Anasayfa</a>
+            <a href="#">Kategori Listesi</a>
+            <a href="KategoriEkle.aspx">Kategori Ekle</a>
+            <a href="#">Makale Listesi</a>
+            <a href="#">Makale Ekle</a>
+            <a href="#">Yorumlar</a>
+            <a href="#">Üyeler</a>
+            <a href="#">Kullanıcılar</a>
+        </div>
+        <div class="icerik">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

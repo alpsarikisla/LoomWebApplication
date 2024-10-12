@@ -1,0 +1,74 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #4E5562;
+    color: white;
+    font-family: Calibri;
+}
+
+.ustMenu {
+    background-color: #171D25;
+}
+
+    .ustMenu .logoAlani {
+        padding: 25px;
+        float: left;
+        width: 300px;
+    }
+
+    .ustMenu .kullaniciAlani {
+        padding: 30px;
+        float: right;
+        width: 500px;
+    }
+
+        .ustMenu .kullaniciAlani #lbl_kullanici {
+            padding-right: 10px;
+            float: right;
+        }
+
+        .ustMenu .kullaniciAlani #lbtn_cikis {
+            float: right;
+        }
+
+.link {
+    color: #1992EA;
+}
+
+    .link:hover {
+        color: aliceblue;
+    }
+
+.solMenu {
+    background-color: #30343B;
+    box-shadow: 15px 0px 7px -8px rgba(0,0,0,0.1);
+    padding-left: 20px;
+    width: 230px;
+    min-height: 840px;
+    float: left;
+}
+
+    .solMenu a {
+        padding: 15px 20px;
+        margin-bottom: 3px;
+        display: block;
+        color: white;
+        text-decoration: none;
+        background-color: #47484b;
+        border-right: 5px solid #47484b;
+    }
+
+        .solMenu a:hover {
+            background-color: #2F4C5B;
+            border-right: 5px solid #139EDB;
+            color: #139EDB;
+        }
+
+.icerik {
+    float: left;
+    width:80%;
+    padding:20px;
+}

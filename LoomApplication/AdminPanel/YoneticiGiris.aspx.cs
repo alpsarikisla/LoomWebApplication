@@ -25,6 +25,7 @@ namespace LoomApplication.AdminPanel
                     Yonetici y = dm.YoneticiGiris(tb_mail.Text, tb_sifre.Text);
                     if (y != null)
                     {
+                        Session["GirisYapanYonetici"] = y;
                         Response.Redirect("Default.aspx");
                     }
                     else

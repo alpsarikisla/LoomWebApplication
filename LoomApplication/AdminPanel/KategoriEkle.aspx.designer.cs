@@ -11,7 +11,7 @@ namespace LoomApplication.AdminPanel
 {
 
 
-    public partial class Default
+    public partial class KategoriEkle
     {
     }
 }
