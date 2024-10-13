@@ -46,5 +46,31 @@ namespace DataAccessLayer
         }
 
         #endregion
+
+        #region Kategori Metotları
+
+        public bool KategoriEkle(Kategori kat)
+        {
+            try
+            {
+                cmd.CommandText = "INSERT INTO Kategoriler(Isim, Durum) VALUES(@isim, @durum)";
+                cmd.Parameters.Clear();
+                cmd.Parameters.AddWithValue("@isim", kat.Isim);
+                cmd.Parameters.AddWithValue("@durum", kat.Durum);
+                con.Open();
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
+        #endregion
     }
 }

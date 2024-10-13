@@ -70,6 +70,7 @@
     <Content Include="AdminPanel\css\GirisStyle.css" />
     <Content Include="AdminPanel\css\YoneticiMasterStyle.css" />
     <Content Include="AdminPanel\Default.aspx" />
+    <Content Include="AdminPanel\css\FormStyle.css" />
     <Content Include="AdminPanel\KategoriEkle.aspx" />
     <Content Include="AdminPanel\SayfaResimleri\eb17d0925c49ef13af6e84cdfeaad079.gif" />
     <Content Include="AdminPanel\SayfaResimleri\new_login_bg_strong_mask.jpg" />

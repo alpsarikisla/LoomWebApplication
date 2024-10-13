@@ -24,7 +24,7 @@
                     </div>
                     <div class="satir">
                         <label style="color:#afafaf">PAROLA</label>
-                        <asp:TextBox ID="tb_sifre" runat="server" CssClass="metinKutu" TextMode="Password"  placeholder="******"></asp:TextBox>
+                        <asp:TextBox ID="tb_sifre" runat="server" CssClass="metinKutu" Text="1234"  placeholder="******"></asp:TextBox>
                     </div>
                     <div class="satir">
                         <asp:CheckBox ID="cb_hatirla" runat="server" CssClass="check" Text="Beni Hatırla"/>
