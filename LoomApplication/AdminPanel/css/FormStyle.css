@@ -14,43 +14,53 @@
     padding: 10px;
 }
 
-    .panelIci .satir {
-        margin: 5px 0 20px 0;
+.satir {
+    margin: 5px 0 20px 0;
+}
+
+    .satir label {
+        font-weight: 900;
     }
 
-        .panelIci .satir label {
-            font-weight: 900;
+    .satir .metinKutu {
+        margin-top: 10px;
+        padding: 10px;
+        background-color: #393C44;
+        border: none;
+        width: 100%;
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        border-radius: 2px;
+        color: white;
+        font-size: 12pt;
+        border: 1px solid #393C44;
+    }
+
+        .satir .metinKutu:focus {
+            border: 1px solid #1999ff;
+            outline: none;
         }
 
-        .panelIci .satir .metinKutu {
-            margin-top: 10px;
-            padding: 10px;
-            background-color: #393C44;
-            border: none;
-            width: 90%;
-            border-radius: 2px;
-            color: white;
-            font-size: 12pt;
-            border: 1px solid #393C44;
-        }
+    .satir .check label {
+        display: inline;
+        padding-left: 8px;
+    }
+    .satir .area
+    {
+        max-height:500px;
+        max-width:800px;
+    }
 
-            .panelIci .satir .metinKutu:focus {
-                border: 1px solid #1999ff;
-                outline: none;
-            }
-        .panelIci .satir .check label {
-            display: inline;
-            padding-left: 8px;
-        }
-.formButon {
-    /* border: 1px solid #1999ff;*/
-    color: white;
-    text-decoration: none;
-    padding: 10px 60px;
-    border-radius: 3px;
-    background: rgb(6,191,255);
-    background: linear-gradient(90deg, rgba(6,191,255,1) 0%, rgba(44,116,255,1) 100%);
-}
+    .formButon {
+        /* border: 1px solid #1999ff;*/
+        color: white;
+        text-decoration: none;
+        padding: 10px 60px;
+        border-radius: 3px;
+        background: rgb(6,191,255);
+        background: linear-gradient(90deg, rgba(6,191,255,1) 0%, rgba(44,116,255,1) 100%);
+    }
 
     .formButon:hover {
         background: rgb(94,214,255);
@@ -64,10 +74,83 @@
     border-radius: 7px;
     margin: 5px 0px;
 }
+
 .basarisiz {
     background-color: deeppink;
 }
+
 .basarili {
     color: #0d5308;
     background-color: #00ff24;
+}
+
+.schrodinger {
+    width: 100%;
+    border: 1px solid white;
+    border-left: none;
+    border-bottom: none;
+}
+
+    .schrodinger tr th {
+        padding: 5px;
+        border-bottom: 2px solid white;
+        border-left: 1px solid white;
+        text-align: left;
+    }
+
+    .schrodinger tr td {
+        padding: 7px;
+        border-bottom: 1px solid white;
+        border-left: 1px solid white;
+    }
+
+    .schrodinger .alternate td {
+        padding: 7px;
+        border-bottom: 1px solid white;
+        border-left: 1px solid white;
+        background-color: #393C44;
+    }
+
+.tablobuton {
+    font-size: 9pt;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.durum {
+    color: white;
+    background-color: #139EDB;
+}
+
+    .durum:hover {
+        background-color: #0377aa;
+    }
+
+.sil {
+    color: white;
+    background-color: deeppink;
+}
+
+    .sil:hover {
+        background-color: #9a0555;
+    }
+
+.duzenle {
+    color: white;
+    background-color: forestgreen;
+}
+
+    .duzenle:hover {
+        background-color: #0d5308;
+    }
+
+.bolunmus .sol {
+    float: left;
+    width: 48%;
+}
+
+.bolunmus .sag {
+    float: right;
+    width: 48%;
 }

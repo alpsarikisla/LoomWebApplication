@@ -23,10 +23,10 @@
         </div>
         <div class="solMenu">
             <a href="Default.aspx">Anasayfa</a>
-            <a href="#">Kategori Listesi</a>
+            <a href="KategoriListele.aspx">Kategori Listesi</a>
             <a href="KategoriEkle.aspx">Kategori Ekle</a>
             <a href="#">Makale Listesi</a>
-            <a href="#">Makale Ekle</a>
+            <a href="MakaleEkle.aspx">Makale Ekle</a>
             <a href="#">Yorumlar</a>
             <a href="#">Üyeler</a>
             <a href="#">Kullanıcılar</a>

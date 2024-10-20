@@ -11,5 +11,6 @@ namespace DataAccessLayer
         public int ID { get; set; }
         public string Isim { get; set; }
         public bool Durum { get; set; }
+        public string DurumStr { get; set; }
     }
 }
