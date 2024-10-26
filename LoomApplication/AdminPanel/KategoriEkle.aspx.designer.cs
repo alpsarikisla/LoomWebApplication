@@ -24,6 +24,15 @@ namespace LoomApplication.AdminPanel
         protected global::System.Web.UI.WebControls.Panel pnl_basarili;
 
         /// <summary>
+        /// lbl_basariliMesaj control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_basariliMesaj;
+
+        /// <summary>
         /// pnl_basarisiz control.
         /// </summary>
         /// <remarks>

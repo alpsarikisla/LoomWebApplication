@@ -3,31 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCDB0BBD-342F-4F80-B4AB-CD76CDA5D7E9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDB0BBD-342F-4F80-B4AB-CD76CDA5D7E9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\loomapplication\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\loomapplication\\adminpanel\\yoneticimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\yoneticimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\loomapplication\\adminpanel\\kategoriekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\kategoriekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\adminpanel\\kategoriekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\kategoriekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\adminpanel\\makaleekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\makaleekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\loomapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\adminpanel\\kategoriekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\kategoriekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\adminpanel\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\loomapplication\\adminpanel\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\loomapplication\\adminpanel\\yoneticimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{1885DB19-15DD-4EAB-9D7F-04A2C7417F83}|LoomApplication\\LoomApplication.csproj|solutionrelative:loomapplication\\adminpanel\\yoneticimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCDB0BBD-342F-4F80-B4AB-CD76CDA5D7E9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\303\\documents\\github\\loomwebapplication\\dataaccesslayer\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCDB0BBD-342F-4F80-B4AB-CD76CDA5D7E9}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\dataaccesslayer\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDB0BBD-342F-4F80-B4AB-CD76CDA5D7E9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 322,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAwwEEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:42:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KategoriEkle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\AdminPanel\\KategoriEkle.aspx.cs",
+              "RelativeDocumentMoniker": "LoomApplication\\AdminPanel\\KategoriEkle.aspx.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\AdminPanel\\KategoriEkle.aspx.cs",
+              "RelativeToolTip": "LoomApplication\\AdminPanel\\KategoriEkle.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:42:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\Web.config",
               "RelativeDocumentMoniker": "LoomApplication\\Web.config",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Oyun.cs",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\DataAccessLayer\\Oyun.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Oyun.cs",
@@ -63,12 +97,11 @@
               "RelativeToolTip": "DataAccessLayer\\Oyun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T10:48:02.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T10:48:02.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MakaleEkle.aspx.cs",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\AdminPanel\\MakaleEkle.aspx.cs",
               "RelativeDocumentMoniker": "LoomApplication\\AdminPanel\\MakaleEkle.aspx.cs",
@@ -81,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "YoneticiMaster.Master",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\AdminPanel\\YoneticiMaster.Master",
               "RelativeDocumentMoniker": "LoomApplication\\AdminPanel\\YoneticiMaster.Master",
@@ -94,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FormStyle.css",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\AdminPanel\\css\\FormStyle.css",
               "RelativeDocumentMoniker": "LoomApplication\\AdminPanel\\css\\FormStyle.css",
@@ -102,8 +135,7 @@
               "RelativeToolTip": "LoomApplication\\AdminPanel\\css\\FormStyle.css",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-20T10:17:12.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T10:17:12.725Z"
             },
             {
               "$type": "Document",
@@ -120,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MakaleEkle.aspx",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\LoomWebApplication\\LoomApplication\\AdminPanel\\MakaleEkle.aspx",
               "RelativeDocumentMoniker": "LoomApplication\\AdminPanel\\MakaleEkle.aspx",

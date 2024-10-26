@@ -59,21 +59,21 @@ namespace DataAccessLayer
 
         #region Kategori Metotları
 
-        public bool KategoriEkle(Kategori kat)
+        public int KategoriEkle(Kategori kat)
         {
             try
             {
-                cmd.CommandText = "INSERT INTO Kategoriler(Isim, Durum) VALUES(@isim, @durum)";
+                cmd.CommandText = "INSERT INTO Kategoriler(Isim, Durum) VALUES(@isim, @durum) SELECT @@IDENTITY";
                 cmd.Parameters.Clear();
                 cmd.Parameters.AddWithValue("@isim", kat.Isim);
                 cmd.Parameters.AddWithValue("@durum", kat.Durum);
                 con.Open();
-                cmd.ExecuteNonQuery();
-                return true;
+                int id = Convert.ToInt32(cmd.ExecuteScalar());
+                return id;
             }
             catch
             {
-                return false;
+                return -1;
             }
             finally
             {

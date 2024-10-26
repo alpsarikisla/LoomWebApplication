@@ -10,7 +10,7 @@
         </div>
         <div class="panelIci">
             <asp:Panel ID="pnl_basarili" runat="server" CssClass="panel basarili" Visible="false">
-                <span>Kategori Ekleme İşlemi Başarılı</span>
+                  <asp:Label ID="lbl_basariliMesaj" runat="server"></asp:Label>
             </asp:Panel>
             <asp:Panel ID="pnl_basarisiz" runat="server" CssClass="panel basarisiz" Visible="false">
                 <asp:Label ID="lbl_mesaj" runat="server"></asp:Label>

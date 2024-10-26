@@ -28,8 +28,10 @@ namespace LoomApplication.AdminPanel
                     Kategori k = new Kategori();
                     k.Isim = tb_isim.Text;
                     k.Durum = cb_durum.Checked;
-                    if (dm.KategoriEkle(k))
+                    int result = dm.KategoriEkle(k);
+                    if (result != -1)
                     {
+                        lbl_basariliMesaj.Text = "Kategori " + result + " id ile başarıyla eklenmiştir";
                         pnl_basarisiz.Visible = false;
                         pnl_basarili.Visible = true;
                     }
